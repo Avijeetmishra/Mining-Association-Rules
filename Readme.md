@@ -1,6 +1,6 @@
 Homework 2: Mining Association Rules from Gene Expression Data
 
-Discription: In this homework, we implemented the Apriori algorithm to find all frequent itemsets. And based on these frequency sets , we generated Association rules which satisfy the given queries.
+Description: In this homework, we implemented the Apriori algorithm to find all frequent itemsets. And based on these frequency sets , we generated Association rules which satisfy the given queries.
 
 To directly execute the code, go to "Homework2\Code\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug" and run "WindowsFormsApplication2.exe".
 
